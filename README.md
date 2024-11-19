@@ -1,6 +1,6 @@
 # BoltSync - Issues
 
-This repository is dedicated to tracking issues and feature requests for BoltSync, a tool that helps you manage and sync your GitHub repositories using Bolt.  Please use this repository to report bugs, suggest improvements, or request new features.
+This repository is dedicated to tracking issues and feature requests for [BoltSync](https://boltsync.mystify.tech/), a tool that helps you manage and sync your GitHub repositories using Bolt.  Please use this repository to report bugs, suggest improvements, or request new features. 
 
 ## Reporting Issues
 
